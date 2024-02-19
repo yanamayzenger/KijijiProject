@@ -1,0 +1,17 @@
+@use "./variable" as *;
+@use "./mixins" as *;
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+  min-width: $min-mobile-width;
+  max-width: $max-desktop-width;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}

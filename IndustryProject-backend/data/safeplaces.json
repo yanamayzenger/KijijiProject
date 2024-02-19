@@ -1,0 +1,39 @@
+{
+  "safePlaces": [
+    {
+      "id": 1,
+      "name": "City Central Police Station",
+      "address": "123 Central St, Downtown",
+      "safetyRating": 5,
+      "coordinates": { "lat": 43.65107, "lng": -79.347015 }
+    },
+    {
+      "id": 2,
+      "name": "Green Leaf Cafe",
+      "address": "456 Park Ave, Midtown",
+      "safetyRating": 4,
+      "coordinates": { "lat": 43.653908, "lng": -79.384293 }
+    },
+    {
+      "id": 3,
+      "name": "Public Library - Main Branch",
+      "address": "789 Library Rd, Uptown",
+      "safetyRating": 5,
+      "coordinates": { "lat": 43.656422, "lng": -79.380213 }
+    },
+    {
+      "id": 4,
+      "name": "Riverdale Community Center",
+      "address": "321 Community Cir, Riverdale",
+      "safetyRating": 4,
+      "coordinates": { "lat": 43.662892, "lng": -79.354564 }
+    },
+    {
+      "id": 5,
+      "name": "Harborfront Park",
+      "address": "234 Waterfront Dr, Harborfront",
+      "safetyRating": 4,
+      "coordinates": { "lat": 43.638762, "lng": -79.382848 }
+    }
+  ]
+}
